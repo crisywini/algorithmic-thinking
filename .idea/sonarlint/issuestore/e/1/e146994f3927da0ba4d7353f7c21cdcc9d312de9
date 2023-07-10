@@ -1,0 +1,17 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¬ÙÅŠ
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(äÎ®«ÿÿÿÿÿ8°¥ªß’1
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(¢¬Ï²þÿÿÿÿ
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8‰²±ß’1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8Š²±ß’1
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8Š²±ß’1
+P
+java:S1128	".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Š²±ß’1
+Z
+java:S1128
+"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Š²±ß’1

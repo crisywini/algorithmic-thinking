@@ -21,11 +21,11 @@ public class Main {
         var h1 = new Hashtable<Character, Character>();
         var h2 = new Hashtable<Character, Character>();
         for (int i = 0; i < s.length(); i++) {
-            if (!h2.containsKey(t.charAt(i))) {
-                h2.put(t.charAt(i), s.charAt(i));
-            }
             if (!h1.containsKey(s.charAt(i))) {
-                h1.put(s.charAt(i), t.charAt(i));
+                if(!h2.containsKey(t.charAt(i))){
+                    h1.put(s.charAt(i), t.charAt(i));
+                    h2.put(t.charAt(i), s.charAt(i));
+                }
             }
         }
 

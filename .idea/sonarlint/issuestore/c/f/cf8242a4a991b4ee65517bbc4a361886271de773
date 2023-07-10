@@ -1,8 +1,0 @@
-
-K
-java:S1854"5Remove this useless assignment to local variable "n".(òœº´
-<
-java:S1481"&Remove this unused "n" local variable.(òœº´
-m
-java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ºµ»¨ûÿÿÿÿ
-N	java:S106!"9Replace this use of System.out or System.err by a logger.(áªóŠ

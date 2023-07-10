@@ -1,8 +1,0 @@
-
-2
-java:S1643#"Use a StringBuilder instead.(í¨é
-k
-java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ü½·O
-q
-java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(î”ÙÅıÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(„¶‹Ùıÿÿÿÿ

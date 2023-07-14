@@ -7,5 +7,7 @@ e
 0src/co/crisi/main/leetcode/wordpattern/Main.java,a\4\a4a201823dcb630db1bd029f4820597c839908a6
 `
 0src/co/crisi/main/leetcode/ransomnotes/Main.java,5\c\5c306f80bc527b830f2add408be915dea7a0495d
-\
-,src/co/crisi/main/leetcode/anagram/Main.java,b\3\b334136f44fe49e526099fd30ea247f02a5e0592
+`
+0src/co/crisi/main/leetcode/happynumber/Main.java,f\4\f4b74c920b0a18a44f349efa8f55bf0602f58676
+X
+(src/co/crisi/main/leetcode/sum/Main.java,6\f\6f7762143fd279ce379cda2749e6624705d7d4a2

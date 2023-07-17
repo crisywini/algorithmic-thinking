@@ -11,3 +11,17 @@ e
 0src/co/crisi/main/leetcode/happynumber/Main.java,f\4\f4b74c920b0a18a44f349efa8f55bf0602f58676
 X
 (src/co/crisi/main/leetcode/sum/Main.java,6\f\6f7762143fd279ce379cda2749e6624705d7d4a2
+f
+6src/co/crisi/main/leetcode/containsduplicate/Main.java,b\3\b36d222c0c22e67364de9eda0a973fa9a97d6abe
+\
+,src/co/crisi/main/leetcode/anagram/Main.java,b\3\b334136f44fe49e526099fd30ea247f02a5e0592
+b
+2src/co/crisi/main/leetcode/groupanagrams/Main.java,6\a\6a10bb1035010a96bf007908c0869ddc28a839a4
+b
+2src/co/crisi/main/leetcode/removeelement/Main.java,b\1\b1d3e0cdd5ef03716b1c0af17d3927d1e0eab4ef
+e
+5src/co/crisi/main/leetcode/removeduplicates/Main.java,a\4\a488407f23537893f105910bc8cc2f5a94e21676
+d
+4src/co/crisi/main/leetcode/majorityelement/Main.java,1\b\1b758bc8fc34d34747fd918b6d9b37c00a62c98e
+g
+7src/co/crisi/main/leetcode/removeduplicatesv2/Main.java,b\b\bb0fc78bfbf6d3a3aca66a854d6678b603fcc91b

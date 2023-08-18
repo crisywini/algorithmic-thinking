@@ -35,7 +35,6 @@ public class Main {
                     a.push(c);
                 }
             }
-
             return a.isEmpty();
         }
 

@@ -1,6 +1,4 @@
 
-K
-src/co/crisi/main/Main.java,b\f\bfb34b68e42a1bc7027953772b67acc83540a0e9
 e
 5src/co/crisi/main/leetcode/isomorphicstring/Main.java,b\0\b054c5153a086bf441ea563a74574a232ca9a9cd
 `
@@ -29,3 +27,9 @@ Z
 *src/co/crisi/main/dmoj/foodlines/Main.java,c\f\cf8242a4a991b4ee65517bbc4a361886271de773
 [
 +src/co/crisi/main/leetcode/profit/Main.java,8\0\802bd9afe2a3e33f15ed35587a82574f7bbe7745
+a
+1src/co/crisi/main/leetcode/validpattern/Main.java,5\9\592711fad000b74fa5b2ca2633f13d0c5f88acd9
+K
+src/co/crisi/main/Main.java,b\f\bfb34b68e42a1bc7027953772b67acc83540a0e9
+l
+<src/co/crisi/main/leetcode/findfirstindexocurrence/Main.java,c\a\ca77527077216e36bf935b08d02cf5d257eff5f2

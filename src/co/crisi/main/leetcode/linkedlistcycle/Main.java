@@ -1,7 +1,6 @@
-package co.crisi.main.leetcode.linkedlist;
+package co.crisi.main.leetcode.linkedlistcycle;
 
 import java.util.ArrayList;
-import java.util.Hashtable;
 import java.util.List;
 
 public class Main {

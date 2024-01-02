@@ -39,3 +39,9 @@ d
 0src/co/crisi/main/leetcode/wordpattern/Main.java,a\4\a4a201823dcb630db1bd029f4820597c839908a6
 K
 src/co/crisi/main/Main.java,b\f\bfb34b68e42a1bc7027953772b67acc83540a0e9
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+>
+hackerrank.iml,6\0\60273c62d4aecd8de0c8c0dafff7aecdfb4d428a
+d
+4src/co/crisi/main/leetcode/validpalindrome/Main.java,3\0\302b0fcaa179dadf10313b8a6c0465fb7ad1ca8e

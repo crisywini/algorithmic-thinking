@@ -45,3 +45,5 @@ K
 hackerrank.iml,6\0\60273c62d4aecd8de0c8c0dafff7aecdfb4d428a
 d
 4src/co/crisi/main/leetcode/validpalindrome/Main.java,3\0\302b0fcaa179dadf10313b8a6c0465fb7ad1ca8e
+`
+0src/co/crisi/main/leetcode/subsequence/Main.java,1\f\1fd7978a894944359f778c27b16a524274003280

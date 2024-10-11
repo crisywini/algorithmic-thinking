@@ -10,8 +10,8 @@ public class Main {
 
     public int maxProfit(int[] prices) {
         var max = 0;
-        for (int i = 0; i < prices.length; i++) {
-            for (int j = i + 1; j < prices.length; j++) {
+        for (int i = 0; i < prices.length/2; i++) {
+            for (int j = i + 1; j < prices.length && j > i && prices[j] < prices[i]; j++) {
                 var profit = prices[j] - prices[i];
                 max = profit >= 0 && profit > max ? profit : max;
             }

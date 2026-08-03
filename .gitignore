@@ -1,2 +1,38 @@
+# IntelliJ IDEA
 /.idea
+*.iws
+*.iml
+*.ipr
 
+# Compiled class files
+*.class
+
+# Build output directories
+out/
+
+/out/
+/build/
+/target/
+
+# Logs
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.jar
+
+# OS generated files
+.DS_Store
+Thumbs.db
